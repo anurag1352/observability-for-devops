@@ -40,7 +40,7 @@ In modern DevOps, observability is key to ensuring the health and performance of
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Observability-For-DevOps.git
+    git clone https://github.com/anurag1352/observability-for-devops.git
     cd Observability-For-DevOps
     ```
 
